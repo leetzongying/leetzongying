@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leetzongying
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning OOP
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leetzongying@gmail.com
 
